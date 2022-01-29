@@ -8,7 +8,7 @@
 <h2>About Me</h2>
 
 - 🔭 I’m currently working on Wewetube and some crypto trading solutions projects
-- 🌱 I’m currently learning Golang and Web3.js
+- 🌱 I’m currently learning solidity and how to create smart contracts
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Talk to me about Tech Mentorship, PHP, Laravel.
 
